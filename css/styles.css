@@ -23,6 +23,8 @@ body {
 .customcssclass{
 	color:darkred;
 }
+
+
 .resume-aside {
 	background-color:lightgrey;
 }
@@ -38,7 +40,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color:darkred;
 }
 
 .biography-details li, .skill-list li {
