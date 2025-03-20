@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.emblema-one-regular {
+  font-family: "Emblema One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar-brand{
+	 background-color: #759CF8;
+	
+}
+
+.container-fluid{
+	 background-color: #759CF8;
+}
+
+.amycolora{
+	 background-color: #759CF8;
+}
+.amycolorb{
+	background-color: #9E3234;
+}
+.amycolorc{
+	background-color: #759CF8;
+}
+.amycolord{
+	background-color: #759CF8;
+}
